@@ -8,6 +8,7 @@ Unity Project Take Home Test
 4. You will not need to push your results.  Instead, when you are done use this git command to create a bundle with your results: git bundle create UnityTestResults.bundle --all
 5. Note that deleting the "Library" folder before you create the bundle will significantly reduce the size
 6. Email the bundle back to your contact.  If it is too large, try uploading to an online file storage provider like Google Drive and provide a link
+7. We ask you to take no more than 4 hours on the test and to self report how long you worked on it.  
 
 # Other Tips
 - The project is using Unity version 2022.3.8f1
