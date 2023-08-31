@@ -7,6 +7,7 @@ Please commit each answer with comments on which question the commit addresses. 
 
 # Other Tips
 - The project is using Unity version 2022.3.8f1
+- There is light project documentation found in the Assets/Documentation folder that will help you understand the project better
 - Please avoid adding 3rd party frameworks to the solution as much as you can.  If you feel one is necessary indicate why in your commit.  Please commit this as a separate commit from any of your code.
 - Aim to complete the questions using the style or approach this solution uses
 - Developer art is expected, do not waste time finding the perfect art
