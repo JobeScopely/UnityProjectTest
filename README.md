@@ -1,9 +1,13 @@
 # UnityProjectTest
 Unity Project Take Home Test
 
-
-# Submitting your work
-Please commit each answer with comments on which question the commit addresses.  It is OK to go back and change previous answers if you jump around in the test, just note it in your commit.
+# Instructions
+1. Clone the repository to your local machine OR download the project as a zip file and establish your own local git repo
+2. Read each question below and work through them.
+3. Please commit each answer with comments on which question the commit addresses.  It is OK to go back and change previous answers if you jump around in the test, just note it in your commit.
+4. You will not need to push your results.  Instead, when you are done use this git command to create a bundle with your results: git bundle create UnityTestResults.bundle --all
+5. Note that deleting the "Library" folder before you create the bundle will significantly reduce the size
+6. Email the bundle back to your contact.  If it is too large, try uploading to an online file storage provider like Google Drive and provide a link
 
 # Other Tips
 - The project is using Unity version 2022.3.8f1
