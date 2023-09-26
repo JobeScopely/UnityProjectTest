@@ -31,7 +31,10 @@ The game designer would like to enable the use of health on the Player so that t
 Completing question 1 may cause an unintended issue for the designer, once the player collides they will likely collide again immediately.  Give the player 1 second of immunity after a collision with an enemy.
 
 ## Question 3
-The game designer would like to create different game modes.  These modes would require a different configuration of game values like player health and starting position.  Implement the necessary changes to allow the game designer to be independent of a developer, add and run new game mode configurations.  It is expected the designer cab be working inside unity but will not write any code.
+The game designer would like to add a UI health bar that represents how much health the player has remaining.  Create a persistent UI element that shows the player's current health at all times as a health bar.  It should update whenever a player takes damage to indicate a portion of the max health is missing.
 
 ## Question 4
-The game designer would like to add a player "gun" weapon.  On a keypress, the Player should fire a "bullet" in whatever direction they are facing.  The player can have unlimited bullets and fire as often as they like.  If the bullet collides with an enemy, it should do Y damage, where Y is set specific to the player.
+The game designer would like to make the health bar more noticable.  Update the health bar to animate a smooth transition of the loss of health from the previous to the current value.
+
+## Question 5 - Bonus
+The game designer wants the loss of health to be even more noticable!  Try to create more visual effects on the bar such as shaking, changing size, changing color, glows that fade out or even a particle effect on the bar whenever health is lost.
